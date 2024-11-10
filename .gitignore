@@ -1,0 +1,92 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Other IDEs related
+*.swp
+*.vscode/
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+generated_plugin_registrant.dart_tool
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.framework
+*.podspec
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.framework
+*.xcworkspace
+*.xcuserdata
+
+# Android related
+android/.gradle/
+android/app/proguard-rules.pro
+android/local.properties
+android/app/src/debug/
+android/app/src/profile/
+android/app/src/main/assets/.DS_Store
+android/app/src/main/assets/flutter_assets/
+android/app/build/
+android/.idea/
+*.keystore
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Web related
+web/.dart_tool/
+web/.firebase/
+web/firebase.json
+web/firebase-debug.log
+web/firebase-tools-cache
